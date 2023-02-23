@@ -30,7 +30,8 @@ nkingchaos2284.github.io/fun-finder/
 
 ## Images
 
-![placeholder-img](./assets/images/page-ss.png)
+<img width="1416" alt="Screen Shot 2023-02-22 at 9 52 13 PM" src="https://user-images.githubusercontent.com/119641606/220831354-e47eaa98-58b1-40d1-9dca-e668180edbda.png">
+
 
 ## License
 
