@@ -18,7 +18,7 @@ var wind = weatherResults.children[1].children[3];
 // function for clicks on search button
 function searchResults() {
   var apiUrlWeather =
-    "http://api.openweathermap.org/geo/1.0/direct?q=" +
+    "https://api.openweathermap.org/geo/1.0/direct?q=" +
     cityInput.value +
     "," +
     stateSearch.value +
