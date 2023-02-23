@@ -25,7 +25,7 @@ THEN I am presented with data of that city
 ## Link
 
 ```
-nkingchaos2284.github.io/fun-finder/
+https://fdgardon.github.io/fun-finder/
 ```
 
 ## Images
