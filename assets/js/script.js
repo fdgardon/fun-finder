@@ -60,7 +60,7 @@ function searchResults() {
         });
     });
   var apiUrlMovies = 'https://api.themoviedb.org/3/movie/550?api_key=7fa03b692f6aa3af85af42b2dba34aee'
-    fetch(apiUrlMovies)
+  fetch(apiUrlMovies)
 };
 
 // functions for clicks on recommended cards
@@ -107,6 +107,12 @@ function renderRecommended() {
           wind.textContent = windValue;
           resultsEl.classList.remove('hidden');
           resultsEl.classList.add('visible');
+          localStorage.setItem('infoValue', infoValue);
+          localStorage.setItem('Temperature', tempValue);
+          localStorage.setItem('Humidity', humidityValue);
+          localStorage.setItem('Wind', windValue);
+          console.log(localStorage);
+
         });
     });
 };
